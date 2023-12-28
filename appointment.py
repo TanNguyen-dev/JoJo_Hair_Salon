@@ -1,14 +1,3 @@
-
-# Methods:
-
-
-
-
-
-
-
-
-
 class Appointment:
     # __init__(): Constructor to initialize properties
     def __init__(self, day_of_week, start_time_hour):
