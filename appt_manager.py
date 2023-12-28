@@ -28,8 +28,8 @@
 #    Calendar for a specific day
 #    Number of saved appointments
 #
-# Authors: Tan Nguyen, Gurleen Singh and Jashanpreet Singh
-# Version: 12-08-2023
+# Authors: Tan Nguyen
+
 
 
 import appointment as ap
